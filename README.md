@@ -7,3 +7,4 @@ Order:<br/>
 1. Introduction to Python. <br/>
 2. Conditionals and Loops. <br/>
 3. Patterns. <br/>
+4. More on Loops. <br/>
