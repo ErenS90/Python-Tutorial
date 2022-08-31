@@ -8,3 +8,4 @@ Order:<br/>
 2. Conditionals and Loops. <br/>
 3. Patterns. <br/>
 4. More on Loops. <br/>
+5. Functions. <br/>
