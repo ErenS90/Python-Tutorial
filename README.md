@@ -9,3 +9,4 @@ Order:<br/>
 3. Patterns. <br/>
 4. More on Loops. <br/>
 5. Functions. <br/>
+6. Arrays & Lists. <br/>
