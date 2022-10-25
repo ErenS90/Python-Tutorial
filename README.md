@@ -10,3 +10,4 @@ Order:<br/>
 4. More on Loops. <br/>
 5. Functions. <br/>
 6. Arrays & Lists. <br/>
+7. Searching & Sorting. <br/>
