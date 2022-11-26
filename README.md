@@ -11,3 +11,8 @@ Order:<br/>
 5. Functions. <br/>
 6. Arrays & Lists. <br/>
 7. Searching & Sorting. <br/>
+8. Strings. <br/>
+9. Two Dimensional Lists. <br/>
+10. Tuples, Dictionary And Sets. <br/>
+
+
